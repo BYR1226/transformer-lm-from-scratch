@@ -1,0 +1,12 @@
+/root/assignment1-basics/cs336_basics/tokenizer.py:1: SyntaxWarning: invalid escape sequence '\p'
+  '''
+使用设备： cuda
+checkpoint iteration： 20000
+
+生成结果：
+
+Once upon a time, there was a little girl named Lily. She loved to play with her toys in her room. She had many toys, but her favorite part was a big, red ball. Lily played with the ball every day.
+One day, it was very hot outside. Lily's mom said, "Lily, it's time to go outside and play!" Lily's mom said, "Okay, Lily. Come, let's go inside and have some hot cocoa."
+Lily took her toy and went inside her bedroom. She played with her toys and forgot all about the hot cocoa. When her mom came back, she was so happy to see Lily, and she said, "Thank you, Lily, for giving me a warm bath!"
+From that day on, Lily always kept her toy in the big, red ball when she played with her toy. She knew that she made a special wish. And her toy ball stayed safe in the cupboard, knowing she had helped someone in her room.
+<|endoftext|>

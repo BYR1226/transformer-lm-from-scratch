@@ -1,0 +1,107 @@
+使用设备： cuda
+训练 token 数量： 541229347
+验证 token 数量： 5465883
+模型参数量：9,316,608
+从 iteration=0 恢复训练
+iteration=250, train_loss=5.0659, val_loss=5.0057, lr=1.494000e-04
+iteration=500, train_loss=3.4489, val_loss=3.4313, lr=2.994000e-04
+iteration=750, train_loss=3.1017, val_loss=3.0345, lr=2.998914e-04
+iteration=1000, train_loss=2.7722, val_loss=2.7959, lr=2.995640e-04
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=1250, train_loss=2.6705, val_loss=2.6742, lr=2.990183e-04
+iteration=1500, train_loss=2.5235, val_loss=2.5706, lr=2.982553e-04
+iteration=1750, train_loss=2.4180, val_loss=2.4752, lr=2.972761e-04
+iteration=2000, train_loss=2.4629, val_loss=2.3970, lr=2.960823e-04
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=2250, train_loss=2.2798, val_loss=2.3697, lr=2.946760e-04
+iteration=2500, train_loss=2.2169, val_loss=2.3132, lr=2.930593e-04
+iteration=2750, train_loss=2.2954, val_loss=2.2739, lr=2.912349e-04
+iteration=3000, train_loss=2.3076, val_loss=2.2550, lr=2.892057e-04
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=3250, train_loss=2.2357, val_loss=2.2155, lr=2.869751e-04
+iteration=3500, train_loss=2.2487, val_loss=2.1642, lr=2.845467e-04
+iteration=3750, train_loss=2.1579, val_loss=2.1493, lr=2.819243e-04
+iteration=4000, train_loss=2.0841, val_loss=2.1037, lr=2.791123e-04
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=4250, train_loss=2.1393, val_loss=2.1058, lr=2.761152e-04
+iteration=4500, train_loss=2.1094, val_loss=2.0877, lr=2.729378e-04
+iteration=4750, train_loss=2.0193, val_loss=2.0434, lr=2.695854e-04
+iteration=5000, train_loss=2.0854, val_loss=2.0385, lr=2.660634e-04
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=5250, train_loss=1.9440, val_loss=2.0031, lr=2.623774e-04
+iteration=5500, train_loss=1.8869, val_loss=2.0284, lr=2.585335e-04
+iteration=5750, train_loss=1.9337, val_loss=1.9423, lr=2.545378e-04
+iteration=6000, train_loss=1.9407, val_loss=1.9838, lr=2.503970e-04
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=6250, train_loss=1.8880, val_loss=1.9909, lr=2.461176e-04
+iteration=6500, train_loss=1.9737, val_loss=1.9588, lr=2.417066e-04
+iteration=6750, train_loss=1.9737, val_loss=1.9641, lr=2.371713e-04
+iteration=7000, train_loss=1.8460, val_loss=1.9320, lr=2.325188e-04
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=7250, train_loss=2.0256, val_loss=1.9381, lr=2.277569e-04
+iteration=7500, train_loss=1.8509, val_loss=1.9283, lr=2.228931e-04
+iteration=7750, train_loss=1.8902, val_loss=1.9408, lr=2.179355e-04
+iteration=8000, train_loss=1.8239, val_loss=1.9109, lr=2.128920e-04
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=8250, train_loss=2.1012, val_loss=1.9228, lr=2.077708e-04
+iteration=8500, train_loss=1.9008, val_loss=1.8985, lr=2.025802e-04
+iteration=8750, train_loss=1.7974, val_loss=1.8958, lr=1.973287e-04
+iteration=9000, train_loss=1.8728, val_loss=1.8714, lr=1.920248e-04
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=9250, train_loss=1.8935, val_loss=1.8711, lr=1.866770e-04
+iteration=9500, train_loss=1.8542, val_loss=1.8795, lr=1.812940e-04
+iteration=9750, train_loss=1.8044, val_loss=1.8380, lr=1.758847e-04
+iteration=10000, train_loss=1.7401, val_loss=1.8324, lr=1.704576e-04
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=10250, train_loss=1.8081, val_loss=1.8719, lr=1.650217e-04
+iteration=10500, train_loss=2.0068, val_loss=1.8640, lr=1.595858e-04
+iteration=10750, train_loss=1.9066, val_loss=1.8286, lr=1.541587e-04
+iteration=11000, train_loss=1.6943, val_loss=1.8266, lr=1.487491e-04
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=11250, train_loss=1.7426, val_loss=1.8343, lr=1.433659e-04
+iteration=11500, train_loss=1.9252, val_loss=1.8442, lr=1.380178e-04
+iteration=11750, train_loss=1.8802, val_loss=1.8446, lr=1.327135e-04
+iteration=12000, train_loss=1.7811, val_loss=1.8173, lr=1.274615e-04
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=12250, train_loss=1.7381, val_loss=1.8202, lr=1.222705e-04
+iteration=12500, train_loss=1.8408, val_loss=1.8295, lr=1.171487e-04
+iteration=12750, train_loss=1.8489, val_loss=1.8238, lr=1.121045e-04
+iteration=13000, train_loss=1.8992, val_loss=1.8170, lr=1.071462e-04
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=13250, train_loss=1.8481, val_loss=1.8110, lr=1.022816e-04
+iteration=13500, train_loss=1.8969, val_loss=1.7898, lr=9.751884e-05
+iteration=13750, train_loss=1.7298, val_loss=1.7723, lr=9.286550e-05
+iteration=14000, train_loss=1.8310, val_loss=1.8185, lr=8.832916e-05
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=14250, train_loss=1.7264, val_loss=1.7950, lr=8.391718e-05
+iteration=14500, train_loss=1.8073, val_loss=1.7643, lr=7.963672e-05
+iteration=14750, train_loss=1.7671, val_loss=1.7766, lr=7.549472e-05
+iteration=15000, train_loss=1.6872, val_loss=1.7564, lr=7.149790e-05
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=15250, train_loss=1.7572, val_loss=1.7817, lr=6.765274e-05
+iteration=15500, train_loss=1.7738, val_loss=1.7739, lr=6.396547e-05
+iteration=15750, train_loss=1.8117, val_loss=1.7972, lr=6.044209e-05
+iteration=16000, train_loss=1.7202, val_loss=1.7522, lr=5.708829e-05
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=16250, train_loss=1.7879, val_loss=1.7646, lr=5.390953e-05
+iteration=16500, train_loss=1.8038, val_loss=1.7542, lr=5.091096e-05
+iteration=16750, train_loss=1.7747, val_loss=1.7595, lr=4.809745e-05
+iteration=17000, train_loss=1.8691, val_loss=1.7723, lr=4.547355e-05
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=17250, train_loss=1.8129, val_loss=1.7564, lr=4.304352e-05
+iteration=17500, train_loss=1.8299, val_loss=1.7596, lr=4.081130e-05
+iteration=17750, train_loss=1.7228, val_loss=1.7443, lr=3.878052e-05
+iteration=18000, train_loss=1.7510, val_loss=1.7684, lr=3.695447e-05
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=18250, train_loss=1.8035, val_loss=1.7672, lr=3.533611e-05
+iteration=18500, train_loss=1.6896, val_loss=1.7509, lr=3.392806e-05
+iteration=18750, train_loss=1.6936, val_loss=1.7419, lr=3.273261e-05
+iteration=19000, train_loss=1.7106, val_loss=1.7569, lr=3.175171e-05
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+iteration=19250, train_loss=1.7327, val_loss=1.7451, lr=3.098693e-05
+iteration=19500, train_loss=1.5905, val_loss=1.7551, lr=3.043952e-05
+iteration=19750, train_loss=1.7014, val_loss=1.7281, lr=3.011036e-05
+iteration=20000, train_loss=1.7142, val_loss=1.7355, lr=3.000000e-05
+checkpoint 已保存：/root/assignment1-basics/data/checkpoints/tinystories_4090.pt
+小模型训练完成
+最终 checkpoint： /root/assignment1-basics/data/checkpoints/tinystories_4090.pt
